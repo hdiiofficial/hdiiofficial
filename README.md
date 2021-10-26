@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @hdiiofficial
+- 👋 Hi, I’m [@hdiiofficial](https://wa.me/12342221977)
+ 
+<h1>SAYA BUKAN PROGRAMER BANG☺️ CUMA COPY PASTE
+ SAYA BUKAN YUTUBER TPI YUTUP ADA BNG
+ SAYA OWNER BOT 
+[telegram](https://t.me/hdiiofficial_bot)
+</h1>
+
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/hdiiofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
