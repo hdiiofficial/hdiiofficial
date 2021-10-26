@@ -1,7 +1,7 @@
 <h5>- 👋HALLO KAK WELCOME TO GITHUB hdiiofficial</h5>
  
-<h6>SAYA BUKAN PROGRAMER BANG☺️ CUMA COPY PASTE\n
- SAYA OWNER BOT</h6>
+<h6>SAYA BUKAN PROGRAMER BANG☺️ CUMA COPY PASTE
+SAYA OWNER BOT</h6>
 <a href="https://t.me/hdiiofficial_bot"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://wa.me/12342221977"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
