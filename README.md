@@ -1,10 +1,9 @@
-- 👋 Hi, I’m [@hdiiofficial](https://wa.me/12342221977)
+- <h1>👋 Hi, I’m</h1> [@hdiiofficial](https://wa.me/12342221977)
  
-<h1>SAYA BUKAN PROGRAMER BANG☺️ CUMA COPY PASTE
+<h6>SAYA BUKAN PROGRAMER BANG☺️ CUMA COPY PASTE
  SAYA BUKAN YUTUBER TPI YUTUP ADA BNG
- SAYA OWNER BOT 
+ SAYA OWNER BOT</h6>
 [telegram](https://t.me/hdiiofficial_bot)
-</h1>
 
 ### Connect with me ☎️
 <p align="center">
