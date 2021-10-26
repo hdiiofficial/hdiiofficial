@@ -4,7 +4,7 @@
  SAYA BUKAN YUTUBER TPI YUTUP ADA BNG
  SAYA OWNER BOT</h6>
 
-###[telegram](https://t.me/hdiiofficial_bot)
+<a href="https://t.me/hdiiofficial_bot"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 
 ### Connect with me ☎️
 <p align="center">
