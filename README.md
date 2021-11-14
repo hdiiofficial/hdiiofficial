@@ -1,5 +1,9 @@
 <h5>- 👋HALLO KAK WELCOME TO GITHUB hdiiofficial</h5>
  
+I'M NOOB BRADER 
+BUKAN MASTAH
+MASI BELAJAR BIAR JADI PROGRAMER
+SUPPORT GW ATUH BANG [SUPPORT](https://sociabuzz.com/hdiiofficial/tribe)
 <h6>SAYA BUKAN PROGRAMER BANG☺️ CUMA COPY PASTE
 SAYA OWNER BOT</h6>
 <a href="https://t.me/hdiiofficial_bot"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
