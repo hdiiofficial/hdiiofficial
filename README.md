@@ -1,6 +1,11 @@
 <h5>- 👋HALLO KAK WELCOME TO GITHUB hdiiofficial</h5>
  <h3>LU KLO DAH LIAT PROFILE GW YA SUBREK YT GW TAI</h3>
-I'M NOOB BRADER 
+<p>
+Kenalin Gw Hadi👋
+Umur gw 16 thun 
+Asal gw rahim ibu,dusun gw rt 1 rw 1,desa gw ,kecamatan gw,kabupaten gw,jawa tengah,indonesia,asia,bumi
+</p>
+GW NOOB BRADER 
 BUKAN MASTAH
 MASI BELAJAR BIAR JADI PROGRAMER
 SUPPORT GW ATUH BANG [SUPPORT](https://sociabuzz.com/hdiiofficial/tribe)
