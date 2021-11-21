@@ -30,3 +30,10 @@ SAYA OWNER BOT</h6>
 ### INFO
 <p><a href="https://komarev.com/ghpvc/?username=hdiiofficial&color=blue&style=flat-square&label=TOTAL+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=hdiiofficial&color=blue&style=flat-square&label=TOTAL+View"></a>
 </p>
+
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-login="samplebot" data-size="large" data-onauth="onTelegramAuth(user)" data-request-access="write"></script>
+<script type="text/javascript">
+  function onTelegramAuth(user) {
+    alert('Logged in as ' + user.first_name + ' ' + user.last_name + ' (' + user.id + (user.username ? ', @' + user.username : '') + ')');
+  }
+</script>
