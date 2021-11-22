@@ -9,7 +9,7 @@ GW NOOB BRADER
 BUKAN MASTAH
 MASI BELAJAR BIAR JADI PROGRAMER
 SUPPORT GW ATUH BANG 
-<p>[SUPPORT](https://sociabuzz.com/hdiiofficial/tribe)</p>
+<p><a href="https://sociabuzz.com/hdiiofficial/tribe">SUPPORT</a></p>
 <h6>SAYA BUKAN PROGRAMER BANG☺️ CUMA COPY PASTE
 SAYA OWNER BOT</h6>
 <a href="https://t.me/hdiiofficial_bot"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
