@@ -1,12 +1,6 @@
 ## Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">  WELCOME TO hdiiofficial GITHUB 🚀🚀
 ![My card name](https://cardivo.vercel.app/api?name=hdiiofficial&description=Hi,%20SAYA%20BUKAN%20PROGRAMER%20CUMA%20COPY%20PASTE%20DOANG%20%F0%9F%91%8B&image=https://telegra.ph/file/a22501ff0c665e6812fba.jpg?v=4&backgroundColor=%#000000&github=BlackerMoskie&pattern=leaf&colorPattern=%23eaeaea)
 
-<p><a href="https://sociabuzz.com/hdiiofficial/tribe">SUPPORT</a></p>
-<h6>SAYA BUKAN PROGRAMER BANG☺️ CUMA COPY PASTE</h6>
-`ADD MY BOT TO YOUR GROUP`
-<a href="https://t.me/hdiiofficial_bot"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://wa.me/12342221977"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
 
 
 ### Connect with me ☎️
