@@ -1,5 +1,5 @@
 ## Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">  WELCOME TO hdiiofficial GITHUB 🚀🚀
-![My card name](https://cardivo.vercel.app/api?name=hdiiofficial&description=Hi,%20SAYA%20BUKAN%20PROGRAMER%20CUMA%20COPY%20PASTE%20DOANG%20%F0%9F%91%8B&image=https://telegra.ph/file/a22501ff0c665e6812fba.jpg?v=4&backgroundColor=%34ebc3&github=hdiiofficial&pattern=leaf&colorPattern=%34ebc3)
+![My card name](https://cardivo.vercel.app/api?name=hdiiofficial&description=Hi,%20SAYA%20BUKAN%20PROGRAMER%20CUMA%20COPY%20PASTE%20DOANG%20%F0%9F%91%8B&image=https://telegra.ph/file/a22501ff0c665e6812fba.jpg?v=4&backgroundColor=%34&github=hdiiofficial&pattern=leaf&colorPattern=%34ebc3)
 
 
 
