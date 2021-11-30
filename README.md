@@ -3,8 +3,7 @@
 
 
 ### DONATE
-`SOCIABUZZ`
-
+<a href="https://sociabuzz.com/hdiiofficial/tribe"><img src="https://sociabuzz.com"/> 
 
 ### Connect with me ☎️
 <p align="center">
