@@ -3,7 +3,7 @@
 
 
 ### DONATE
-<a href="https://sociabuzz.com/hdiiofficial/tribe"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fsociabuzz.com%2Fassets%2Fimg%2Flogo-md.png&imgrefurl=https%3A%2F%2Fsociabuzz.com%2Fgood-instagram-engagement-rate&tbnid=C0YjxBUtiEW06M&vet=1&docid=G5_54jUxaBO-XM&w=900&h=180&itg=1&hl=id&source=sh%2Fx%2Fim"/> 
+<a href="https://sociabuzz.com/hdiiofficial/tribe"><img src="https://telegra.ph/d7ed0f4bdaf82b135b64a.png"/> 
 
 ### Connect with me ☎️
 <p align="center">
