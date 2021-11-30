@@ -3,7 +3,7 @@
 
 
 ### DONATE
-<a href="https://sociabuzz.com/hdiiofficial/tribe"><img src="https://telegra.ph/d7ed0f4bdaf82b135b64a.png"/> 
+<a href="https://sociabuzz.com/hdiiofficial/tribe"><img src="https://telegra.ph/file/d7ed0f4bdaf82b135b64a.png"/> 
 
 ### Connect with me ☎️
 <p align="center">
