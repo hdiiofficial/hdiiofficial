@@ -4,7 +4,7 @@
 
 ### DONATE
 <a href="https://sociabuzz.com/hdiiofficial/tribe"><img src="https://telegra.ph/file/d7ed0f4bdaf82b135b64a.png"/> 
-
+<a href="https://trakteer.id/hdiiofficial" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-2.png" height="60" style="border: 0px; height: 60px;" alt="Trakteer Saya"></a>
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/hdiiofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
