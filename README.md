@@ -4,7 +4,7 @@
 
 ### DONATE
 <a href="https://sociabuzz.com/hdiiofficial/tribe"><img src="https://telegra.ph/file/d7ed0f4bdaf82b135b64a.png"/> 
-<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Traktir kopi','#be1e2d','https://trakteer.id/hdiiofficial','https://trakteer.id/storage/images/units/uic-9vl4HcwdAfvVhcqClrZJ1qushkGCKIrq1638491186.png','60');trbtn.draw(trbtnId);})();</script>
+
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/hdiiofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
